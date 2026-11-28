@@ -1,2 +1,7 @@
 Version initiale de l'application.
+<<<<<<< HEAD
+
+Ligne modifiée par A et B.
+=======
 Ajout de la fonctionnalité 1.
+>>>>>>> e56a20f7be85649777e5f77a55c6507dd8ce6f05
