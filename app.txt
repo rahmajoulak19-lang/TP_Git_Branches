@@ -1,1 +1,3 @@
 Version initiale de l'application.
+
+Ligne modifiée par B.
